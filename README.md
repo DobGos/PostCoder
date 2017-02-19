@@ -4,9 +4,8 @@ Demonstrates usage of:
 * Java 8
 * SpringBoot
 * Core Spring
-* Spring MVC
-* Rest API Client
-* Jackson
+* Jersey Rest Client
+* Jackson 
 * Gradle
 * Jetty
 
@@ -14,6 +13,9 @@ For unit and integration testing:
 * JUnit 4
 * WireMock
 
+## To Run
+- Execute `./run.sh`
+- Open `http://localhost:8080` 
 
 ## The Problem
 
