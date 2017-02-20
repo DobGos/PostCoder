@@ -11,6 +11,7 @@ Demonstrates usage of:
 
 For unit and integration testing:
 * JUnit 4
+* Mockito
 * WireMock
 
 ## To Run
